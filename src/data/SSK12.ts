@@ -47,7 +47,7 @@ export const SSK12: SankeyData = {
         { name: 'polarity_classification', type: 'Intermediation', subtype: '2' },
         { name: 'personalized_sentiment_analysis', type: 'Intermediation', subtype: '2' },
         { name: 'multilingual_and_cross_lingual_sentiment_analysis', type: 'Intermediation', subtype: '2' },
-        { name: 'comparion_of_different_sentiments', type: 'Intermediation', subtype: '3' },
+        { name: 'comparsion_of_different_sentiments', type: 'Intermediation', subtype: '3' },
         { name: 'timeline_analysis', type: 'Intermediation', subtype: '4' },
         { name: 'analysis_of_debates_comments_and_argumentation', type: 'Intermediation', subtype: '4' },
         { name: 'finding_significant', type: 'Intermediation', subtype: '4' },
