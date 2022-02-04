@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 96vw;
+    height: 90vh;
+}
+
+path {
+    opacity: 0.3;
+}
+
+path:hover {
+    opacity: 0.8;
+}
